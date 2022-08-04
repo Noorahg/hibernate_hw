@@ -46,8 +46,8 @@ public class App
         System.out.println(
                 "1)Save Course \n" +
                 "2)Get Course ById \n" +
-                "3)Get all Course \n " +
-                "4)Update Course \n " +
+                "3)Get all Course \n" +
+                "4)Update Course \n" +
                 "5)Delete Course by id \n" +
                 "6)Get Course by name \n" +
                 "7)Save Instructor \n" +
